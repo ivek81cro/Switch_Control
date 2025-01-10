@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1030786273300",
+    "project_id": "fan-monitor-d0c5b",
+    "storage_bucket": "fan-monitor-d0c5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030786273300:android:bda4193bb354091e1ad701",
+        "android_client_info": {
+          "package_name": "com.example.fanmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6D7RfH2fQIFrThNOo5QuoJblbi_NXRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030786273300:android:4b152d0fb92f410e1ad701",
+        "android_client_info": {
+          "package_name": "com.example.fanmonitorlegion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6D7RfH2fQIFrThNOo5QuoJblbi_NXRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
